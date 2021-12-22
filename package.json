@@ -1,0 +1,13 @@
+{
+  "name": "api",
+  "version": "0.0.1",
+  "author": "Gabriel <gabrielhruiz@gmail.com>",
+  "private": true,
+  "dependencies": {
+    "dotenv": "^4.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {},
+  "main": "server.js",
+  "license": "ISC"
+}
